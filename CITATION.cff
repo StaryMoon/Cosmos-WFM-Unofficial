@@ -1,0 +1,55 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the original paper."
+title: "Cosmos World Foundation Model Platform for Physical AI"
+type: software
+authors:
+  - family-names: Liu
+    given-names: Minghao
+repository-code: "https://github.com/StaryMoon/Cosmos-WFM-Unofficial"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Cosmos World Foundation Model Platform for Physical AI"
+  authors:
+    - name: NVIDIA
+    - name: :
+    - family-names: Agarwal
+      given-names: Niket
+    - family-names: Ali
+      given-names: Arslan
+    - family-names: Bala
+      given-names: Maciej
+    - family-names: Balaji
+      given-names: Yogesh
+    - family-names: Barker
+      given-names: Erik
+    - family-names: Cai
+      given-names: Tiffany
+    - family-names: Chattopadhyay
+      given-names: Prithvijit
+    - family-names: Chen
+      given-names: Yongxin
+    - family-names: Cui
+      given-names: Yin
+    - family-names: Ding
+      given-names: Yifan
+    - family-names: Dworakowski
+      given-names: Daniel
+    - family-names: Fan
+      given-names: Jiaojiao
+    - family-names: Fenzi
+      given-names: Michele
+    - family-names: Ferroni
+      given-names: Francesco
+    - family-names: Fidler
+      given-names: Sanja
+    - family-names: Fox
+      given-names: Dieter
+    - family-names: Ge
+      given-names: Songwei
+    - family-names: Ge
+      given-names: Yunhao
+    - name: Additional original paper authors
+  journal: "arXiv preprint arXiv:2501.03575"
+  year: 2025
+  url: "https://arxiv.org/abs/2501.03575"
